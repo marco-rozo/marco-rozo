@@ -25,11 +25,6 @@
 
 </br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-rozo&layout=compact&theme=monokai" alt="Marco Rozo Status" /></a> </p>
-
-### 🔥 &nbsp; Meus status:
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marco-rozo&theme=monokai&margin-w=5&margin-h=5&rank=-?,-C" alt="Marco Rozo Status" /></a> </p>
-
 
 
 
