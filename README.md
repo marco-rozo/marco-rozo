@@ -1,8 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Marco Antonio</strong>.
 
 ### Algumas informações sobre mim 
-- 🎓 &nbsp; Sou estudante de Análise e Desenvolvimento de Sistemas (UTFPR-PB) - 6º semestre.
-- 💼 &nbsp; Desenvolvedor Full Stack na GEW Tecnologia!
+- 💼 &nbsp; Desenvolvedor Flutter na Softfocus!
 - 🌱 &nbsp; Aprendendo mais sobre **Flutter, Dart e NodeJs**.
 
 <h3> 🚀 &nbsp;Minhas Skills </h3>
