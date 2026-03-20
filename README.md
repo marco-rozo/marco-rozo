@@ -32,9 +32,6 @@
   <a href="https://www.linkedin.com/in/marco-antonio-rozo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.instagram.com/marco_rozo/" alt="Instagram">
-    <img src="https://img.shields.io/badge/Instagram-violet?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
     <a href="mailto:marcorozo99@gmail.com?subject=Sobre...&body=Olá, vim pelo link do git hub, assunto..." alt="Gmail">
     <img src="https://img.shields.io/badge/-marcorozo99@gmail.com-006bed?style=for-the-badge&logo=Gmail&logoColor=white)" alt="Gmail Badge"/>
   </a>
