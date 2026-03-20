@@ -1,7 +1,7 @@
 ## 💜 Olá, meu nome é <strong>Marco Antonio</strong>.
 
 ### Algumas informações sobre mim 
-- 💼 &nbsp; Desenvolvedor Flutter na Softfocus!
+- 💼 &nbsp; Desenvolvedor Multi-stack.
 - 🌱 &nbsp; Aprendendo mais sobre **Flutter, Dart e NodeJs**.
 
 <h3> 🚀 &nbsp;Skills </h3>
